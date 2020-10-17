@@ -5,6 +5,8 @@ With this BMI calculator you calculate and evaluate your Body Mass Index (BMI) b
 * Git and clone <br/>
 ```bash
 $ cd /Users/user/my_project
-$ git clone https://github.com/TarokhDev2020/Ratios-for-iOS.git
+$ git clone https://github.com/TarokhDev2020/BMI-Calculator-for-iOS.git
 ```
+
+## Screenshots ##
 
